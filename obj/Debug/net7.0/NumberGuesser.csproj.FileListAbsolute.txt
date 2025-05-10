@@ -1,0 +1,14 @@
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\bin\Debug\net7.0\NumberGuesser.exe
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\bin\Debug\net7.0\NumberGuesser.deps.json
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\bin\Debug\net7.0\NumberGuesser.runtimeconfig.json
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\bin\Debug\net7.0\NumberGuesser.dll
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\bin\Debug\net7.0\NumberGuesser.pdb
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\obj\Debug\net7.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\obj\Debug\net7.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\obj\Debug\net7.0\NumberGuesser.AssemblyInfo.cs
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\obj\Debug\net7.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\obj\Debug\net7.0\NumberGuesser.dll
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\obj\Debug\net7.0\refint\NumberGuesser.dll
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\obj\Debug\net7.0\NumberGuesser.pdb
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\obj\Debug\net7.0\NumberGuesser.genruntimeconfig.cache
+C:\Program Files\Ampps\www\NumberGuesser\NumberGuesser\obj\Debug\net7.0\ref\NumberGuesser.dll
