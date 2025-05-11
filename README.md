@@ -5,6 +5,7 @@ This console-based application is developed using C# and the .NET framework. The
 - Random Number Generation: The program generates a random number within a defined range (e.g., 1 to 10) using the Random class.
 - User Interaction: It prompts the user to input their guess and provides feedback on whether the guess is correct.
 - Input Validation: The application includes error handling to ensure that the user inputs valid numeric values.
+
 🛠️ Technical Overview
 Language: C#
 Framework: .NET Core / .NET 5+
