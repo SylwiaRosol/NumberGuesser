@@ -7,9 +7,13 @@ This console-based application is developed using C# and the .NET framework. The
 - Input Validation: The application includes error handling to ensure that the user inputs valid numeric values.
 
 🛠️ Technical Overview
+
 Language: C#
+
 Framework: .NET Core / .NET 5+
+
 Application Type: Console Application
+
 Core Concepts:
 - Random number generation
 - User input handling
